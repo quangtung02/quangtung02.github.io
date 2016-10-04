@@ -5,11 +5,11 @@ background:center no-repeat url(background.png)
 }
 
 .logo{
-background-image:url(logo.png)
+background-image:
 }
 
 .progressBar{
-background-color:rgb(238, 255, 65);
+background-color:#0033CC
 }
 
 .splash{
