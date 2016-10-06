@@ -1,15 +1,15 @@
 /* CSS Document */
 
 .background{
-background:center no-repeat url(background.png)
+background:#000000
 }
 
 .logo{
-background-image:url(logo.jpg)
+background-image:url(logo.png)
 }
 
 .progressBar{
-background-color:#0033CC
+background-color:#000099
 }
 
 .splash{
@@ -19,4 +19,5 @@ background-image:url(splash.png)
 .watermark {
 background-image:url(watermark.png);
 background-size: 60px 60px;
+background-color:#FFFFFF
 }
