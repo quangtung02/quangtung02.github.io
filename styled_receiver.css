@@ -17,6 +17,6 @@ background-image:url(splash.png)
 }
 
 .watermark {
-background-image:url(watermark.png)
+background-image:url(watermark.png);
 background-size: 60px 60px;
 }
