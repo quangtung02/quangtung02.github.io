@@ -1,7 +1,7 @@
 /* CSS Document */
 
 .background{
-background:#000000
+background:url(background.png)
 }
 
 .logo{
@@ -9,7 +9,7 @@ background-image:url(logo.png)
 }
 
 .progressBar{
-background-color:#000099
+background-color:#FFFF00
 }
 
 .splash{
